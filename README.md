@@ -1,1 +1,1 @@
-# Project-3
+The pupose and overview of this project is the display the data that we have found for the flu in the U.S. for the year 2024-2025. The data source we recieved this information on is from this website https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html. 
